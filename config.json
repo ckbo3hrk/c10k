@@ -1,0 +1,7 @@
+{
+  "version" : "1.0.0",
+  "config" : {
+    "port" : 8080,
+	"threads" : 8
+  }
+}
